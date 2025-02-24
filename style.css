@@ -11,7 +11,7 @@ body{
     font-family: "inter",sans-serif;
     padding: 2rem;
     border: solid 1px rgb(10, 10, 10);
-    background-color:#d6d6e2;
+    background-color:#f0f0f4;
 }
 
 header{
@@ -141,9 +141,7 @@ section{
     font-size: 2rem;
     justify-content: space-between;
 }
-#bold{
-    font-weight: bold;
-}
+
 .text_bold{
     font-size: 10px;
     font-weight: bold;
@@ -152,7 +150,6 @@ section{
     width: 100px;
 }
 .text_durability-4{
-    /* padding-right: 50px; */
     width: 100px;
 }
 .text_durability-5{
@@ -168,10 +165,10 @@ section{
     font-size: 1rem;
     border-radius: 5px;
     outline:  #001725 solid 2px;
-    background-color: var(--cls-primary);
+    background-color: white;
     color:  #001725;
     font-weight: bold;
-    box-shadow: 6px 6px 0px rgba(0, 0, 0, 1);
+    box-shadow: 6px 6px 0px rgb(16, 16, 16);
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
